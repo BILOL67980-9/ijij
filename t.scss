@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+}
+
+body{
+  background-image: url(https://pibig.info/uploads/posts/2022-12/1670033417_1-pibig-info-p-ochen-krasivie-foni-krasivo-1.jpg);
+  background-size:cover ;
+  background-position: center;
+}
+.i{
+    text-align: center;
+    background: white;
+    border-radius:4% ;
+    font-family: sans-serif;
+    width: 400px;
+    .im{
+        background-image:url(/maxresdefault.jpg) ;
+        margin-bottom: 0px;
+        width: 400px;
+    }
+    .h20{
+        color: green;
+        margin-bottom: 20px;
+    }
+    .h21{
+        color: rgb(255, 0, 0);
+        margin-bottom: 20px;
+    }
+    .h22{
+        color: rgb(18, 15, 225);
+        margin-bottom: 20px;
+    }
+    .h1{
+        margin-bottom: 20px;
+    }
+.r30{
+    color: white;
+    padding: 20px 0px;
+    background-color: green;
+    display: flex;
+    font-family: sans-serif;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.r31{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    padding: 20px 0px;
+    display: flex;
+    font-family: sans-serif;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.r32{
+    
+    background-color: rgb(18, 15, 225);
+    color: white;
+    padding: 20px 0px;
+    display: flex;
+    font-family: sans-serif;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+}
+.div1{
+    display: flex;
+    margin-top: 100px;
+  flex-wrap: wrap;
+  justify-content:space-evenly;
+}
+.b{
+    width: 70%;
+    height: 30px;
+    color: lime;
+
+    background-color: white;
+    border:1px solid  lime;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.p1{
+    text-align: right;
+    width: 60px;
+    background-color: lime;
+    color: white;
+    position: relative;
+    top: -575px;
+    font-size: 22px;
+    left: 340px;
+}
+.s{
+    color: lime;
+}
